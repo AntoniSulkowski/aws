@@ -1,4 +1,4 @@
-# Weather Alerting System (Projekt nr 4)
+# Weather Alerting System 
 ## Przedmiot: Autonomiczne Systemy Eksperckie i Eksploracja Danych
 
 Niniejsze repozytorium zawiera implementację serverless systemu ostrzegania przed niebezpiecznymi lub istotnymi zjawiskami pogodowymi, opartego na chmurze **Amazon Web Services (AWS)**. System cyklicznie pobiera dane z udostępnionego Weather REST API, archiwizuje surowe odczyty, dokonuje ewaluacji reguł eksperckich oraz rejestruje i opcjonalnie dystrybuuje alerty w czasie rzeczywistym.
